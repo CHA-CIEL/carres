@@ -8,7 +8,7 @@ int main()
 {
     CCarre tableau[4] = 
     {
-        CCarre(0, 0, 10), //aa
+        CCarre(0, 0, 10), 
         CCarre(10, 10, 15),
         CCarre(20, 20, 20),
         CCarre(30, 30, 25)
