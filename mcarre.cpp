@@ -1,6 +1,6 @@
 // Nom : carre
 // date : 12/12/24
-// Chaintron joris
+// Chaintron Joris
 
 #include <iostream>
 #include <stdio.h>
