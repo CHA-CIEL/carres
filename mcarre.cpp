@@ -3,7 +3,7 @@
 #include "carre.h"
 
 using namespace std;
-
+// main
 int main() 
 {
     CCarre tableau[4] = 
